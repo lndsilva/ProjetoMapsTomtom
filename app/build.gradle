@@ -39,7 +39,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     //library required to display map
-    implementation("com.tomtom.online:sdk-maps:2.4.807")
+    implementation("com.tomtom.online:sdk-maps:2.4244")
 
 
 }
